@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/glayon28.github.io/static/css/main.01efeeb3.css",
-    "main.js": "/glayon28.github.io/static/js/main.e457fad2.js",
-    "index.html": "/glayon28.github.io/index.html",
-    "main.01efeeb3.css.map": "/glayon28.github.io/static/css/main.01efeeb3.css.map",
-    "main.e457fad2.js.map": "/glayon28.github.io/static/js/main.e457fad2.js.map"
+    "main.css": "/static/css/main.01efeeb3.css",
+    "main.js": "/static/js/main.e457fad2.js",
+    "index.html": "/index.html",
+    "main.01efeeb3.css.map": "/static/css/main.01efeeb3.css.map",
+    "main.e457fad2.js.map": "/static/js/main.e457fad2.js.map"
   },
   "entrypoints": [
     "static/css/main.01efeeb3.css",
